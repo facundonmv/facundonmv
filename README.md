@@ -1,20 +1,19 @@
 # Hi, I'm Facundo Morata 👋
 
-**Software Engineer** based in Buenos Aires, Argentina (GMT-3).  
-I build full-stack products and distributed backend systems, with a focus on AI-native architectures — RAG pipelines, LLM integrations, and agentic workflows.
-
-Most of what I ship is for the Argentine market: local payments (Mercado Pago), tax compliance (AFIP), and mobile-first commerce.
+**Software Engineer** based in Buenos Aires, Argentina (GMT-3) · *Available Worldwide (Remote)*.  
+I design and ship scalable full-stack applications, distributed backend systems, and production AI-native architectures.
 
 🌐 **Portfolio:** [facundomorata.com](https://facundomorata.com) · 💼 **LinkedIn:** [facundo-morata](https://www.linkedin.com/in/facundo-morata/) · 📧 **Email:** [contact@facundomorata.com](mailto:contact@facundomorata.com)
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Stack & Capabilities
 
-- **Backend & Systems:** Node.js · Elixir/BEAM · Rust · Python · PostgreSQL · Microservices · Event-driven patterns
-- **AI & Agents:** LLM integration · RAG pipelines · LangChain · Agentic workflows
-- **Frontend:** React · Next.js · TypeScript · TailwindCSS
-- **Infra & Cloud:** Docker · AWS · Supabase · GitHub Actions
+- **Frontend:** React 19 · Next.js · TypeScript · Redux / Zustand · TailwindCSS · HTML5 / CSS3
+- **Backend & Systems:** Node.js · Express · Elixir/BEAM · Python · FastAPI · Microservices · Event-driven patterns
+- **Databases & ORMs:** PostgreSQL · Supabase (RLS) · Sequelize · Redis · MongoDB
+- **AI & Agents:** LLM integrations · RAG pipelines · LangChain · Agentic workflows
+- **Infra & DevOps:** Docker · AWS · Cloudflare Workers · GitHub Actions (CI/CD)
 
 ---
 
